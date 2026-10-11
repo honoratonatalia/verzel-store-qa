@@ -1,4 +1,4 @@
- Verzel Store QA - Teste Técnico
+#  Verzel Store QA - Teste Técnico
 
 Repositório dedicado à entrega do desafio técnico de Quality Assurance para a Verzel.
 
